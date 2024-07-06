@@ -9,7 +9,7 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-# Runtime data
+# source
 pids
 *.pid
 *.seed
@@ -111,7 +111,7 @@ pycache/
 
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
-.husky
+.husky1
 
 
 # VSCode
