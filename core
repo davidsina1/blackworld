@@ -107,7 +107,7 @@ dist
 .DS_Store
 
 # python
-pycache/
+pycache/2323
 
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
@@ -115,6 +115,6 @@ pycache/
 
 
 # VSCode
-.vscode/launch.json
+.vscode/launch3.json
 packages/protocol/config.js
 .vercel
