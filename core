@@ -3,7 +3,7 @@ logs
 *.log
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
+yarn-error
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
@@ -55,7 +55,7 @@ typings/
 
 # Microbundle cache
 .rpt2_cache/
-.rts2_cache_cjs/
+.rts2_cache_cjg
 .rts2_cache_es/
 .rts2_cache_umd/
 
