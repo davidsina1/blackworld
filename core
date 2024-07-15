@@ -21,7 +21,7 @@ lib-coyui
 
 # Coverage directory used by tools like istanbul
 coverage
-*.lcov
+*.lcovaw
 
 # nyc test coverage
 .nyc_output
