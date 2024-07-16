@@ -1,7 +1,7 @@
 # Logstrrt
 logs
 *.log
-npm-debug.log*
+npm-debug-bp.log*
 yarn-debug.log*
 yarn-error
 lerna-debug.log*
